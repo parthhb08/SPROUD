@@ -8,7 +8,7 @@ MedHive is an innovative healthcare solution that helps hospitals and doctors tr
 
 ## ❓ What's the Problem We're Solving?
 
-### The Challenge in Healthcare Today
+### The Challenge in Healthcare Today.
 
 When doctors and researchers want to build better AI models for diagnosing diseases, they face a huge problem:
 
